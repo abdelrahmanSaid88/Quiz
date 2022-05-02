@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "720841229254",
+    "project_id": "nitquiz-1b780",
+    "storage_bucket": "nitquiz-1b780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720841229254:android:4f6ad577bdad23b71ca8c7",
+        "android_client_info": {
+          "package_name": "com.example.nit_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720841229254-kac308vosnp5cq5h8c2q5vq53hf3adj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nit_quiz",
+            "certificate_hash": "a7d8449fbaacccf252b8a5ae4433f2dce0216f5d"
+          }
+        },
+        {
+          "client_id": "720841229254-3n7jd8ds6q2d2tj3mvh4uefsi6e5kp3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSCr-MwpeKlXfYAHKMNhmIqA2pywAISVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720841229254-3n7jd8ds6q2d2tj3mvh4uefsi6e5kp3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
